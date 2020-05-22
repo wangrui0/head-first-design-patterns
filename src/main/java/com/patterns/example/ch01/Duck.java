@@ -9,6 +9,8 @@ public abstract class Duck {
     public QuackBehavior quackBehavior;
     public FlyBehavior flyBehavior;
 
+
+
     public Duck() {
     }
 
